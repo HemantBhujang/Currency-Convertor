@@ -18,7 +18,7 @@ A **Currency Converter App** built using **React**, **Vite**, and **Tailwind CSS
 
 ## 🚀 Live Demo
 Try out the live app here:  
-[Currency Converter App]([https://<your-username>.github.io/<your-repo-name>/](https://hemantbhujang.github.io/Currency-Convertor/))
+[Currency Converter App](https://hemantbhujang.github.io/Currency-Convertor/)
 
 ---
 
@@ -57,8 +57,8 @@ Follow these steps to set up and run the project locally:
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/<your-username>/<your-repo-name>.git
-   cd <your-repo-name>
+   git clone https://github.com/HemantBhujang/Currency-Convertor.git
+   cd Currency-Convertor
    ```
 
 2. **Install Dependencies**:
@@ -86,7 +86,7 @@ Follow these steps to set up and run the project locally:
 
 ## 🖼️ Screenshots
 ### **Main Interface**
-![Main Interface](src\assets\image.png)
+![Main Interface](src/assets/image.png)
 
 ---
 
