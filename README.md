@@ -52,37 +52,6 @@ currencyProject/
 
 ---
 
-## 🔧 Setup and Installation
-Follow these steps to set up and run the project locally:
-
-1. **Clone the Repository**:
-   ```bash
-   git clone https://github.com/HemantBhujang/Currency-Convertor.git
-   cd Currency-Convertor
-   ```
-
-2. **Install Dependencies**:
-   ```bash
-   npm install
-   ```
-
-3. **Run the Development Server**:
-   ```bash
-   npm run dev
-   ```
-   Open your browser and navigate to [http://localhost:5173](http://localhost:5173).
-
-4. **Build for Production**:
-   ```bash
-   npm run build
-   ```
-
-5. **Deploy to GitHub Pages**:
-   ```bash
-   npm run deploy
-   ```
-   
----
 
 ## 🖼️ Screenshots
 ### **Main Interface**
@@ -93,6 +62,5 @@ Follow these steps to set up and run the project locally:
 
 ## 🧑‍💻 Author
 **Hemant Bhujang**  
-[GitHub Profile]([https://github.com/<your-username>](https://github.com/HemantBhujang/) | [Portfolio](https://yourportfolio.com))
-
+[GitHub Profile] [https://github.com/HemantBhujang](https://github.com/HemantBhujang/) |
 ---
